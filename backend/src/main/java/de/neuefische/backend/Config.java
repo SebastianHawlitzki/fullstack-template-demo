@@ -9,6 +9,7 @@ import org.springframework.web.servlet.resource.PathResourceResolver;
 
 import java.io.IOException;
 
+
 @Configuration
 public class Config implements WebMvcConfigurer {
     @Override
